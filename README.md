@@ -154,3 +154,9 @@ Mubashir builds AI agents, WhatsApp automation, system connections and custom we
 - Try a demo: [mubashirhussain.com/demos](https://mubashirhussain.com/demos)
 - Book a call: [mubashirhussain.com/book](https://mubashirhussain.com/book)
 - Email: hello@mubashirhussain.com
+
+## Credits
+
+- **[Panaversity](https://panaversity.org/):** this project was built for the Forward Deployed Engineer Fast Track course (FDE-102). Thanks to the Panaversity team for the course and the Email Studio Lab assignment.
+- **[Claude Code](https://claude.com/claude-code)** and the **[Anthropic marketing plugin](https://github.com/anthropics/knowledge-work-plugins):** used to plan, write and review the campaigns.
+- **[Resend](https://resend.com):** used for practice sends to test addresses only.
