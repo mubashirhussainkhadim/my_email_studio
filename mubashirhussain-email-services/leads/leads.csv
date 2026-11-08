@@ -1,0 +1,25 @@
+first_name,last_name,email,group,joined_on,consent
+Ayesha,Khan,ayesha.khan@example.com,ai-curious,2026-09-14,contact form
+Tom,Becker,tom.becker@example.com,comparing-devs,2026-09-22,contact form
+Bilal,Ahmed,bilal.ahmed@example.com,ai-curious,2026-09-03,demo page
+Maria,Lopez,maria.lopez@example.com,ai-curious,2026-09-18,contact form
+Kwame,Mensah,kwame.mensah@example.com,ai-curious,2026-09-27,demo page
+Sophie,Martin,sophie.martin@example.com,ai-curious,2026-10-04,contact form
+Ravi,Patel,ravi.patel@example.com,ai-curious,2026-10-11,demo page
+Hannah,Schmidt,hannah.schmidt@example.com,ai-curious,2026-10-19,contact form
+Omar,Farooq,omar.farooq@example.com,ai-curious,2026-10-28,contact form
+Lucy,Turner,lucy.turner@example.com,comparing-devs,2026-09-08,contact form
+Daniel,Osei,daniel.osei@example.com,comparing-devs,2026-09-29,demo page
+Fatima,Malik,fatima.malik@example.com,comparing-devs,2026-10-02,contact form
+James,Walsh,james.walsh@example.com,comparing-devs,2026-10-09,contact form
+Nadia,Rahman,nadia.rahman@example.com,comparing-devs,2026-10-15,demo page
+Carlos,Silva,carlos.silva@example.com,comparing-devs,2026-10-23,contact form
+Emma,Novak,emma.novak@example.com,comparing-devs,2026-10-30,contact form
+Imran,Siddiqui,imran.siddiqui@example.com,ready-to-scope,2026-09-05,booking page
+Grace,Okafor,grace.okafor@example.com,ready-to-scope,2026-09-16,contact form
+Leo,Rossi,leo.rossi@example.com,ready-to-scope,2026-09-25,booking page
+Zara,Hussain,zara.hussain@example.com,ready-to-scope,2026-10-06,contact form
+Peter,Lindqvist,peter.lindqvist@example.com,ready-to-scope,2026-10-13,booking page
+Amina,Yusuf,amina.yusuf@example.com,ready-to-scope,2026-10-21,contact form
+Sam,Carter,sam.carter@example.com,ready-to-scope,2026-10-27,booking page
+Mei,Chen,mei.chen@example.com,ready-to-scope,2026-11-03,contact form
