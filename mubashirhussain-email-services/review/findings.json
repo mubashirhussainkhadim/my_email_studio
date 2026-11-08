@@ -1,46 +1,32 @@
 {
   "findings": [
     {
-      "file": "campaigns/test-bad/emails/01-bad.md",
+      "file": "campaigns/ai-era-pricing-launch/emails/01-new-fixed-prices.md",
       "line": 1,
-      "severity": "high",
-      "problem": "The subject promises a build time: \"built in 24 hours\". brand/offers.md says never to promise a delivery date or a number of days, and the voice guide asks us to be honest.",
-      "fix": "Take the time promise out of the subject, e.g. \"Your AI agent, at a fixed price\"."
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 2,
-      "severity": "high",
-      "problem": "The preview promises the agent will be \"live within 24 hours\". That is a delivery-time promise we must not make.",
-      "fix": "Change the preview to something like \"One fixed price in writing before any work starts. No surprises.\""
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 8,
-      "severity": "high",
-      "problem": "The body says \"have it live within 24 hours\". That is another delivery-time promise.",
-      "fix": "Remove the 24-hour promise and say \"the timeline is agreed in writing before work starts.\""
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 14,
-      "severity": "high",
-      "problem": "The email has a second main link (\"See the demos\" to /demos) as well as the /book link. The email rules allow exactly one main link.",
-      "fix": "Keep one link. Either delete the demos line and link (lines 12 and 14), or drop the /book link and make /demos the only link."
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 6,
       "severity": "medium",
-      "problem": "\"This is your last chance to book a build slot with me this year\" is false urgency. It sounds like a sales pitch, which goes against the voice guide's Trusted and Honest values, and nothing in the brand files supports a slot limit.",
-      "fix": "Remove the line, or replace it with a plain opener about what the agent can do for their business."
+      "problem": "The subject (\"My prices are now fixed and written down\") and line 8 (\"My prices are now fixed and published\") suggest prices used to be open-ended. voice.md says a written price before work starts is how Mubashir already works, and email 02 says \"every job I take on has a fixed price\". So the word \"now\" stretches the truth and doesn't match the rest of the campaign. What's probably new is that the starting prices are published. Plan.md and sequence.md both list this as still unconfirmed.",
+      "fix": "Say what actually changed. Subject: \"My starting prices are now on my website\" (40 characters). Line 8: \"My starting prices are now on my website. As always, you get one fixed price in writing before any work starts. No surprises.\" Confirm with Mubashir first."
     },
     {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 10,
-      "severity": "low",
-      "problem": "The button says \"free 30-minute call\", but nothing in the brand files says the first call is free or 30 minutes long. The only 30-minute call mentioned is a training call in one package, so this may stretch the truth.",
-      "fix": "Use plain button text like \"Book a call\" unless Mubashir confirms the call really is free and 30 minutes."
+      "file": "campaigns/ai-era-pricing-launch/groups/ai-curious/emails/01-new-fixed-prices.md",
+      "line": 1,
+      "severity": "medium",
+      "problem": "Same as the shared 01: the subject and line 8 say prices are \"now fixed\", which suggests they weren't fixed before. This clashes with voice.md and with email 02.",
+      "fix": "Use the same wording as the shared 01: \"My starting prices are now on my website\" in the subject, and \"As always, you get one fixed price in writing\" on line 8."
+    },
+    {
+      "file": "campaigns/ai-era-pricing-launch/groups/comparing-devs/emails/01-new-fixed-prices.md",
+      "line": 1,
+      "severity": "medium",
+      "problem": "Same as the shared 01: the subject and line 8 say prices are \"now fixed\", which suggests they weren't fixed before. This clashes with voice.md and with email 02.",
+      "fix": "Use the same wording as the shared 01: \"My starting prices are now on my website\" in the subject, and \"As always, you get one fixed price in writing\" on line 8."
+    },
+    {
+      "file": "campaigns/ai-era-pricing-launch/groups/ready-to-scope/emails/01-new-fixed-prices.md",
+      "line": 1,
+      "severity": "medium",
+      "problem": "Same as the shared 01: the subject and line 8 say prices are \"now fixed\", which suggests they weren't fixed before. This clashes with voice.md and with email 02.",
+      "fix": "Use the same wording as the shared 01: \"My starting prices are now on my website\" in the subject, and \"As always, you get one fixed price in writing\" on line 8."
     }
   ]
 }
