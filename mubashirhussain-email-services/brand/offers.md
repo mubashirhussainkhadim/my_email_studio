@@ -75,5 +75,6 @@ Support, training and documentation come with some packages, not all. Check the 
 
 - **Book a call:** https://mubashirhussain.com/book
 - **Contact form:** https://mubashirhussain.com/contact
+- **Email:** hello@mubashirhussain.com
 - **Try a demo first:** https://mubashirhussain.com/demos (sample agents on sample data, nothing is saved or sent)
 - Mubashir usually replies by email within one working day.
