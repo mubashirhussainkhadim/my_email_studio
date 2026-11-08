@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 1,
+      "severity": "high",
+      "problem": "The subject promises a build time: \"built in 24 hours\". brand/offers.md says never to promise a delivery date or a number of days, and the voice guide asks us to be honest.",
+      "fix": "Take the time promise out of the subject, e.g. \"Your AI agent, at a fixed price\"."
+    },
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 2,
+      "severity": "high",
+      "problem": "The preview promises the agent will be \"live within 24 hours\". That is a delivery-time promise we must not make.",
+      "fix": "Change the preview to something like \"One fixed price in writing before any work starts. No surprises.\""
+    },
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 8,
+      "severity": "high",
+      "problem": "The body says \"have it live within 24 hours\". That is another delivery-time promise.",
+      "fix": "Remove the 24-hour promise and say \"the timeline is agreed in writing before work starts.\""
+    },
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 14,
+      "severity": "high",
+      "problem": "The email has a second main link (\"See the demos\" to /demos) as well as the /book link. The email rules allow exactly one main link.",
+      "fix": "Keep one link. Either delete the demos line and link (lines 12 and 14), or drop the /book link and make /demos the only link."
+    },
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 6,
+      "severity": "medium",
+      "problem": "\"This is your last chance to book a build slot with me this year\" is false urgency. It sounds like a sales pitch, which goes against the voice guide's Trusted and Honest values, and nothing in the brand files supports a slot limit.",
+      "fix": "Remove the line, or replace it with a plain opener about what the agent can do for their business."
+    },
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 10,
+      "severity": "low",
+      "problem": "The button says \"free 30-minute call\", but nothing in the brand files says the first call is free or 30 minutes long. The only 30-minute call mentioned is a training call in one package, so this may stretch the truth.",
+      "fix": "Use plain button text like \"Book a call\" unless Mubashir confirms the call really is free and 30 minutes."
+    }
+  ]
+}
