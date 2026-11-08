@@ -6,17 +6,29 @@ Mubashir Hussain is a forward deployed engineer who builds AI agents, WhatsApp a
 
 ## Project submission
 
-This repository is my project submission for the **Email Studio Lab**.
+This repository is my project submission for the **Email Studio Lab**, part of the **Forward Deployed Engineer Fast Track** course (FDE-102).
+
+**The project**
 
 | | |
 |---|---|
-| **Course** | FDE-102 |
-| **Class** | Class 9 |
 | **Project** | Email Studio Lab |
+| **Class** | Class 9 |
 | **Started** | 25 October 2026 |
 | **Due** | 8 November 2026, 11:59 PM PKT |
 | **Status** | Submitted |
 | **Student** | Mubashir Hussain ([mubashirhussain.com](https://mubashirhussain.com)) |
+
+**The course**
+
+| | |
+|---|---|
+| **Course** | Forward Deployed Engineer Fast Track |
+| **Course code** | FDE-102 |
+| **Section** | FT1-B1 |
+| **Course start** | 20 September 2026 |
+| **Language** | Urdu |
+| **Schedule** | Two classes a week: Friday and Sunday, 20:00 (GMT+5) |
 
 ## What the studio does
 
