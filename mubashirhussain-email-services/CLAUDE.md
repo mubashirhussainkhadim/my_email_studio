@@ -16,3 +16,4 @@ This studio is for planning and writing email campaigns for Mubashir Hussain. Mu
 3. **Ask me before deleting anything.** This includes files, folders and text inside a file.
 
 @brand/voice.md
+@brand/offers.md
