@@ -14,3 +14,6 @@ This studio is for planning and writing email campaigns for Mubashir Hussain. Mu
 1. **Write in plain English.** Use short sentences and everyday words. Avoid jargon and hype.
 2. **Never send email to real people.** Only write drafts. Do not send, schedule or test-send any email to a real address.
 3. **Ask me before deleting anything.** This includes files, folders and text inside a file.
+
+@brand/voice.md
+@brand/offers.md
