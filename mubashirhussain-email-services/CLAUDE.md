@@ -12,7 +12,7 @@ This studio is for planning and writing email campaigns for Mubashir Hussain. Mu
 ## Rules
 
 1. **Write in plain English.** Use short sentences and everyday words. Avoid jargon and hype.
-2. **Never send email to real people.** Only write drafts. Do not send, schedule or test-send any email to a real address.
+2. **Never send email to real people.** Only write drafts. Do not send, schedule or test-send any email to a real address. The only exception is sending through Resend, which is allowed only to Resend's test addresses (ending in @resend.dev) and to my own address, mubashirhussaindev@gmail.com. A guard will enforce this in the next step.
 3. **Ask me before deleting anything.** This includes files, folders and text inside a file.
 
 @brand/voice.md
