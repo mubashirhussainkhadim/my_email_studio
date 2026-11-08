@@ -3,7 +3,7 @@ Preview: Sample agents on sample data. Nothing is saved or sent.
 
 Hi {{first_name}},
 
-If you're comparing an AI builder with hiring an expert, you can see how my agents work without a call.
+A do-it-yourself tool can be a good fit for a simple chat box. If it needs to look up orders or book slots in your own systems, that's what I build. You can see how my agents work without a call.
 
 On my demos page you can try sample agents yourself. They run on sample data, so nothing is saved or sent. Take as long as you like.
 
