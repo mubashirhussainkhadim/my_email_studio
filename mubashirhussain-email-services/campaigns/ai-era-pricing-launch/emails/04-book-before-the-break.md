@@ -1,9 +1,9 @@
-Subject: Last note: book a call before the break
+Subject: Book a call before the break
 Preview: Calls are open until [date]. You can also book a time in early January.
 
 Hi {{first_name}},
 
-This is my last email about the new fixed prices.
+The holidays are close, so here's a quick note before they start.
 
 If you'd like to know what your job would cost, I have calls open until [date]. If the next few weeks are busy, you can book a time in early January now instead.
 

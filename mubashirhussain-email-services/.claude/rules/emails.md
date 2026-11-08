@@ -31,7 +31,9 @@ Each email has exactly one main link. Write it like this:
 [Button text](https://mubashirhussain.example/book)
 ```
 
-Change the button text to fit the email. Do not add a second main link.
+Change the button text to fit the email. The link can go to /book, /demos or /services, whichever fits the email. Do not add a second main link.
+
+`mubashirhussain.example` is a placeholder. Keep it in the draft. Mubashir swaps in the real mubashirhussain.com link, with tracking tags, when loading the email into the email tool.
 
 ## 4. End with the sign-off, then the footer
 

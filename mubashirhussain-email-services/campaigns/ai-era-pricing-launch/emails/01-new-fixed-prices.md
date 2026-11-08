@@ -3,7 +3,7 @@ Preview: Six kinds of work, each with a starting price. See what your job would 
 
 Hi {{first_name}},
 
-You got in touch with me at some point, so I wanted to tell you this myself.
+You've been in touch with me before, so I wanted to tell you this myself.
 
 My prices are now fixed and published on my website. Before any work starts, you get one fixed price in writing. No surprises.
 

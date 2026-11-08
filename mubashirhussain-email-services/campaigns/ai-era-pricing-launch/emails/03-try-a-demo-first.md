@@ -9,7 +9,9 @@ On my demos page you can try sample agents yourself. They run on sample data, so
 
 Here's one example of what I build. Think about the WhatsApp messages your business gets after closing time. An assistant can answer common questions, like opening hours or prices, at night. When a question needs a person, it hands over to you or your team.
 
-A WhatsApp inbox with an assistant like that is $1,750, as a fixed price. Meta charges its WhatsApp message fees straight to your own account, and I don't add anything on top. If you'd rather start smaller, a single-task agent starts from $600.
+My "Inbox and assistant" package does this, from $1,750. You get one fixed price in writing before work starts. Meta charges its WhatsApp message fees straight to your own account, and I don't add anything on top.
+
+If you'd rather start smaller, a single-task agent is from $600. It does one job, like answering questions about your products, but it doesn't include the WhatsApp setup.
 
 [Try a demo](https://mubashirhussain.example/demos)
 
