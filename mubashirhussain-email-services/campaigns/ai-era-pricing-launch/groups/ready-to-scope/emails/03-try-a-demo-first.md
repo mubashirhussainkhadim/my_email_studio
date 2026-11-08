@@ -3,13 +3,13 @@ Preview: Sample agents on sample data. Nothing is saved or sent.
 
 Hi {{first_name}},
 
-If you already know what you'd like built, a demo is a quick way to check it's the right fit before we talk.
+If you already know what you'd like built, a demo is a quick way to see how my agents work before we talk.
 
 On my demos page you can try sample agents yourself. They run on sample data, so nothing is saved or sent. Take as long as you like.
 
 Here's one example of what I build. Think about the WhatsApp messages your business gets after closing time. An assistant can answer common questions, like opening hours or prices, at night. When a question needs a person, it hands over to you or your team.
 
-My "Inbox and assistant" package does this, from $1,750. It includes a shared inbox, an AI assistant that answers your FAQs and up to three approved message templates. You get one fixed price in writing before work starts. Meta charges its WhatsApp message fees straight to your own account, and I don't add anything on top.
+My "Inbox and assistant" package does this, from $1,750. It includes a shared inbox, an AI assistant that answers your FAQs and up to three ready-made messages approved by WhatsApp. You get one fixed price in writing before work starts. Meta charges its WhatsApp message fees straight to your own account, and I don't add anything on top.
 
 If you'd rather start smaller, a single-task agent is from $600. It does one job, like answering questions about your products, but it doesn't include the WhatsApp setup.
 

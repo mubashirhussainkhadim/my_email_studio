@@ -3,7 +3,7 @@ Preview: A short call, a written quote, then work starts. You know the price fir
 
 Hi {{first_name}},
 
-When you're comparing an AI builder with hiring an expert, a common worry is that an expert's price grows once work starts. That's why every job I take on has a fixed price, agreed in writing first.
+When you're comparing a do-it-yourself chatbot tool with hiring an expert, a common worry is that an expert's price grows once work starts. That's why every job I take on has a fixed price, agreed in writing first.
 
 Here's how it works:
 

@@ -3,7 +3,7 @@ Preview: Six kinds of work, each with a starting price. See what your job would 
 
 Hi {{first_name}},
 
-If you've been wondering what an AI agent could do for your business, I wanted to tell you this myself.
+If you've been wondering what an AI agent could do for your business, here's a simple place to start.
 
 My prices are now fixed and published on my website. Before any work starts, you get one fixed price in writing. No surprises.
 

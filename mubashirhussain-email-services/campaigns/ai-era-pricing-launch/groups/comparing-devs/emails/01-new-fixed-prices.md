@@ -3,7 +3,7 @@ Preview: Six kinds of work, each with a starting price. See what your job would 
 
 Hi {{first_name}},
 
-If you're weighing up an AI builder against hiring an expert, I wanted to give you clear prices to compare.
+If you're weighing up a do-it-yourself chatbot tool against hiring an expert, here are clear prices to compare.
 
 My prices are now fixed and published on my website. Before any work starts, you get one fixed price in writing. No surprises.
 
