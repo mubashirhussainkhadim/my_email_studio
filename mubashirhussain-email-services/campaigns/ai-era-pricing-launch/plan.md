@@ -165,7 +165,7 @@ mubashirhussain.com
 
 If the booking tool can't read these tags, add one question to the booking form: "What made you book this call?"
 
-**Reporting:** a short count every Friday (11, 18 and 23 December, and 1 January), and a final results note after 3 January. The `/marketing:performance-report` skill can help write it.
+**Reporting:** a short count each week: Friday 11 December, Friday 18 December, Wednesday 23 December (moved from Friday 25 December, which is Christmas Day) and Friday 1 January, and a final results note after 3 January. The `/marketing:performance-report` skill can help write it.
 
 ## 8. Budget
 
